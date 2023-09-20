@@ -1,1 +1,3 @@
-# Tiktok-Coins-Generator
+# Simple python script :)
+
+Only for fun
